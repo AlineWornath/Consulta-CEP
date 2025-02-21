@@ -17,7 +17,10 @@ Armazenamento de buscas frequentes em cache.
 As causas do problema precisam ser avaliadas. Caso se trate de 
 
  *Problema 3: CEP inexistente ou mal formatado:*
-Incluir validações para garantir que o input do usuário atenda aos    requisitos básicos(por exemplo, apenas números digitados). Implementar no sistema a formatação padrão.
+Incluir validações para garantir que o input do usuário atenda aos requisitos básicos(por exemplo, apenas números digitados). 
+
+Implementar no sistema a formatação padrão.
+
 Checar em tempo real a existência do CEP na base de dados dos Correios.
 
 ## Como contribuir?
